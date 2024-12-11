@@ -1,6 +1,9 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
+DROP TABLE IF EXISTS campaign;
+DROP TABLE IF EXISTS contacts_regex;
+DROP TABLE IF EXISTS category_df;
+DROP TABLE IF EXISTS subcategory_df;
 
 CREATE TABLE "campaign" (
     "cf_id" INT   NOT NULL,
