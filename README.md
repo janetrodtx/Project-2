@@ -3,7 +3,10 @@
 ## All the following can be found at the following [Jupiter Notebook](https://github.com/janetrodtx/Project-2/blob/main/ETL_Project2_JRodriguez_G_Rajagopalan_CSalinas_S%20Kalami_Oekene.ipynb):
 
 ### Created:
-* Categoty DataFrame 
+* Categoty DataFrame
+  * Extract and transform the category data from crowdfunding.xlsx to create a category DataFrame.
+The DataFrame will contain a category_id column and a category column, where category_id is a unique identifier.
+Export the DataFrame to category_df.csv
 * Subcategory DataFrame
 * Campaign DataFrame
 * Contacts DataFrame
