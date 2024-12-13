@@ -8,8 +8,9 @@
 * Campaign DataFrame
 * Contacts DataFrame
 
-### In the [SQL file](https://github.com/janetrodtx/Project-2/blob/main/ERD/crowdfunding_db_schema.sql) attached you can find:
+## In the [SQL file](https://github.com/janetrodtx/Project-2/blob/main/ERD/crowdfunding_db_schema.sql) attached, you can find:
 
+### Created:
 * Labeling of schema
 * Creation of crowdfunding_db
 * Appropriate primary and foreign keys
